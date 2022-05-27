@@ -76,5 +76,62 @@ nav a:hover {
     color: rgb(236, 131, 62);
   }
 
+.projects {
+    flex: 1 0 50%;
+    display: flex;
+    padding: 20px;
+    max-width: 40%;
+    justify-content: center;
+  }
 
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.my-details ul li {
+    text-align: right;
+    list-style-type: none;
+    display: inline-block;
+}
+
+.my-details ul li a {
+    text-decoration: none;
+    color: rgb(236, 131, 62);
+}
+
+.my-details ul li a:hover {
+    color: black;
+}
+
+.larger-card {
+    flex: 1 0 0;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    transition: all .2s ease-in-out; 
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+.larger-card:hover {
+    background-color: rgb(213, 91, 30);
+    transform: scale(1.1); 
+}
+
+.larger-card h3 {
+    padding: 10px;
+    color: rgb(241, 191, 7);
+    color: rgb(236, 131, 62);
+  }
+
+#work {
+    display: flex;
+}
+
+
+  
 
