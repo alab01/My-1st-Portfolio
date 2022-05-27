@@ -5,4 +5,5 @@
 
 ## Technologies Used: html and css were used in this project
 
-## [GitHub Live Link] 
+## [GitHub Live Link]: https://alab01.github.io/My-1st-Portfolio/
+
